@@ -55,7 +55,7 @@ calculation — расчётные характеристики
 ## Расчёт эффективности
 Вам нужно смоделировать процесс восстановления золота из золотосодержащей руды. 
 Эффективность обогащения рассчитывается по формуле
-<img src=https://pictures.s3.yandex.net/resources/Recovery_1576238822.jpg higth=500 widtg=500>
+<img src=https://pictures.s3.yandex.net/resources/Recovery_1576238822.jpg higth=500 width=500>
 
 где:
 - C — доля золота в концентрате после флотации/очистки;
